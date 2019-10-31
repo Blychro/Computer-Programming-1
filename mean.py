@@ -29,3 +29,4 @@ def mean():
     #Outputs
     print("RMS Average:", rms_average)
     print("Harmonic Mean:", harmonic_mean)
+        
